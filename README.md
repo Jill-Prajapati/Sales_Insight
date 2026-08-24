@@ -33,4 +33,4 @@ Visuals:
 
 📸 Dashboard
 
-![Dashboard Screenshot](sales_insight.png)
+![Dashboard Screenshot](SalesDataAnalysis.png)
